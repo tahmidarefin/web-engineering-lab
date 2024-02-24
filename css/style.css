@@ -56,7 +56,7 @@ nav {
 	font-size: 120%;
 }
 
-#nav-menu span:hover, #nav-menu span:active, .active-nav {
+.active-nav, #nav-menu span:hover {
 	text-decoration: underline;
 	text-decoration-color: orangered;
 	text-decoration-thickness: 22%;
